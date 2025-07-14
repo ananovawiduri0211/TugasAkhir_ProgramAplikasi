@@ -1,4 +1,4 @@
-# Aplikasi Pemesanan Kopi & Bakery (Multi-Order) – Versi Google Colab
+# Aplikasi Pemesanan Kopi & Bakery (Multi-Order) 
 
 Aplikasi ini adalah simulasi sistem kasir sederhana untuk kedai kopi dan roti yang memungkinkan pengguna untuk memesan lebih dari satu menu dalam satu transaksi. Aplikasi dibuat dan dijalankan menggunakan Google Colab, sehingga **tidak memerlukan instalasi Python secara manual**.
 
